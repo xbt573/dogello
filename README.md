@@ -9,7 +9,7 @@ With docker, deploy process becomes stupidly easy:
 2. Install docker and docker-compose
 3. Run this command:
 ```bash
-    docker-compose up -d dogello
+docker-compose up -d dogello
 ```
 4. You're all done!
 
